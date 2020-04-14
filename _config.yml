@@ -5,7 +5,7 @@ description         : >-
                       the University of Birmingham. Fascinated by everything
                       tech. Lover of indie/hip hop music and guitarist."
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          :  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : robj3d3/robj3d3.github.io # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
