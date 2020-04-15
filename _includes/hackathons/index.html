@@ -1,5 +1,7 @@
 <div class="card-columns m-3 mt-5">
 
+  <h3 id="about-me"><strong>Here's a list of the hackathons, CTFs and other events I've participated in!</strong></h1>
+
   <!-- Hackathons and CTFs -->
   {% for hackathon in site.hackathons %}
 
@@ -7,7 +9,7 @@
     {%- assign hackathon_img   = hackathon.image -%}
     {%- assign hackathon_name  = hackathon.name -%}
     {%- assign hackathon_category = hackathon.category -%}
-    {%- assign hackathon_date = hackathon.date -%}
+    {%- assign hackathon_date = hackathon.dates -%}
 
     {%- if hackathon.external_url -%}
       {%- assign hackathon_url = hackathon.external_url -%}
