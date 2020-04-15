@@ -53,6 +53,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  hackathons:
+    order:
+      - localhackday19.md
+      - hackthemidlands19.md
+    output: true
+    permalink: /hackathons/:name
 
 
 ### Defaults for collections ###
@@ -60,6 +66,11 @@ defaults:
   - scope:
       path: ""
       type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "hackathons"
     values:
       layout: "page"
 
@@ -70,3 +81,5 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+
+# Don't need output true for hackathons as not a separate site for each, just link to it
