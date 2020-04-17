@@ -2,7 +2,7 @@
 name: WhatTheCTF? 2020
 image: https://robhallam.uk/assets/whatthectf.png
 dates: March 2020
-category: [CTF]
+category: [CTF, Click to read more!]
 --- 
 
 # WhatTheCTF? 2020

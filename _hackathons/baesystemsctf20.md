@@ -2,7 +2,7 @@
 name: BAE Systems Applied Intelligence CTF
 image: https://robhallam.uk/assets/baesystemsctf.png
 dates: January 2020
-category: [CTF]
+category: [CTF, Click to read more!]
 --- 
 
 # BAE Systems Applied Intelligence CTF 2020

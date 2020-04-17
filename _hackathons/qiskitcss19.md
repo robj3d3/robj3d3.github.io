@@ -2,7 +2,7 @@
 name: CSS Qiskit Hackathon
 image: https://robhallam.uk/assets/qiskit.png
 dates: November 2019
-category: [Hackathon]
+category: [Hackathon, Click to read more!]
 description: quantCasino
 ---
 
