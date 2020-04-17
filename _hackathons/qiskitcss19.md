@@ -14,6 +14,12 @@ We were then challenged to apply what we'd learned to create something interesti
 
 Our team took advantage of the true randomness attribute of quantum computing to create a casino based on quantum-randomness (all fun and games).
 
+![cssqiskitworkshop](https://robhallam.uk/assets/cssqiskitworkshop.jpg)
+
+![cssqiskithackathon](https://robhallam.uk/assets/cssqiskithackathon.jpg)
+*Images from [CSSBham's Twitter](https://twitter.com/cssbham)*
+
+
 <p class="text-center">
 {% include elements/button.html link="https://github.com/robj3d3/quantCasino" text="Click to see our project" %}
 </p>
