@@ -14,6 +14,12 @@
 
     {%- if hackathon.external_url -%}
       {%- assign hackathon_url = hackathon.external_url -%}
+    {%- else -%}
+      {%- assign hackathon_url = hackathon.url | relative_url -%}
+    {%- endif -%}
+
+    {%- if hackathon.description -%}
+      {%- assign hackathon_desc = hackathon.description -%}
     {%- endif -%}
 
     {% include hackathons/hackathon-card.html %}

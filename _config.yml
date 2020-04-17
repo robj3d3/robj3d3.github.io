@@ -57,6 +57,10 @@ collections:
     order:
       - localhackday19.md
       - hackthemidlands19.md
+      - qiskitcss19.md
+      - baesystemsctf20.md
+      - googlehashcode20.md
+      - whatthectf20.md
     output: true
     permalink: /hackathons/:name
 
