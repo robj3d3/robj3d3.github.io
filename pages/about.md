@@ -9,7 +9,7 @@ weight: 1
 
 Hi I'm **{{ site.author.name }}** :wave:,<br>
 
-A first year Computer Science student studying at the University of Birmingham. My passions include programming (and maintaining my projects), attending hackathons, and listening to various genres of music from indie and rap to hip hop.
+A first year Computer Science student studying at the University of Birmingham. I'm currently running for <strong>CSS Socials Rep</strong> in the 2020 Guild Elections! My passions include programming (and maintaining my projects), attending hackathons, and listening to various genres of music from indie and rap to hip hop.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

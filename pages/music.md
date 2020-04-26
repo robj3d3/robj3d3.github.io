@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-weight: 4
+weight: 5
 permalink: /music/
 ---
 

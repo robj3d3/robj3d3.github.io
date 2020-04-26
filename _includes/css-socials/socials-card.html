@@ -1,0 +1,18 @@
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+    <a href="{{ event_url }}" class="project card text-dark">
+      {%- if project_img -%}
+      <img id="{{ event_id }}-img" class="card-img-top" src="{{ event_img }}" alt="{{ event_name }}" />
+      {%- endif -%}
+      <div class="card-body">
+        <h5 id="{{ event_id }}-name" class="card-title">
+          {{ event_name }}
+        </h5>
+        <p id="{{ event_id }}-desc" class="card-text">{{ event_desc }}</p>
+        <p id="{{ event_id }}-category" class="card-text">
+            {%- for category in event_category -%}
+            <span class="badge badge-pill text-primary border border-primary ml-1">{{ category }}</span>
+            {%- endfor -%}
+          </p>
+      </div>
+    </a>
+</div>

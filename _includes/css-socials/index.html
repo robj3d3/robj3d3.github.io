@@ -1,0 +1,20 @@
+<div class="card-columns m-3 mt-5">
+
+    <h4 id="about-me"><strong>Here's a list of the social events I promise to run as your CSS Socials Rep!</strong></h4>
+    <br>
+
+  {% for event in site.css-socials %}
+
+    {%- assign event_id    = event.name | slugify -%}
+    {%- assign event_img   = event.image -%}
+    {%- assign event_name  = event.name -%}
+    {%- assign event_desc  = event.description -%}
+    {%- assign event_category = event.category -%}
+
+    {%- assign event_url = event.url | relative_url -%}
+
+    {% include css-socials/socials-card.html %}
+
+  {% endfor %}
+
+</div>
