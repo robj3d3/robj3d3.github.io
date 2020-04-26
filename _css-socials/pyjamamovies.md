@@ -1,7 +1,6 @@
 ---
 name: Pyjama Movie Nights
 image: https://robhallam.uk/assets/pyjamamovienights.png
-description: test
 category: [Click to read more!]
 ---
 
