@@ -63,6 +63,9 @@ collections:
       - whatthectf20.md
     output: true
     permalink: /hackathons/:name
+  css-socials:
+    output: true
+    permalink: /css-socials/:name
 
 
 ### Defaults for collections ###
@@ -75,6 +78,11 @@ defaults:
   - scope:
       path: ""
       type: "hackathons"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "css-socials"
     values:
       layout: "page"
 

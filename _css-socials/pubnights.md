@@ -1,7 +1,7 @@
 ---
 name: Pub Nights
 image: https://robhallam.uk/assets/pubnights.png
-description:
+description: test
 category: [Click to read more!]
 ---
 

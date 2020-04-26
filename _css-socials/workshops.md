@@ -1,7 +1,7 @@
 ---
 name: Workshops & Talks
 image: https://robhallam.uk/assets/workshopsandtalks.png
-description:
+description: test
 category: [Click to read more!]
 --- 
 

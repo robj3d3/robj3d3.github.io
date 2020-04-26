@@ -1,7 +1,7 @@
 ---
 name: Restaurant Visits
 image: https://robhallam.uk/assets/restaurantvisits.png
-description:
+description: test
 category: [Click to read more!]
 --- 
 

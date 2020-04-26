@@ -1,7 +1,7 @@
 ---
 name: LAN Parties
 image: https://robhallam.uk/assets/lanparties.png
-description:
+description: test
 category: [Click to read more!]
 --- 
 
