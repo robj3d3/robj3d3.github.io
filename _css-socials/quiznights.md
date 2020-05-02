@@ -10,7 +10,7 @@ Quiz nights. Sound like fun? They are! They are what says on the tin, and as you
 
 As a fresher back in October I absolutely loved the Halloween quiz night, so much so that straight afterwards I was already ready to hop on and help organise the next one!
 
-Vote for me for Socials Rep and I'll make this happen!
+As your Socials Rep I'll make this happen!
 
 
 ![quiznights](https://robhallam.uk/assets/quiznights.png)
