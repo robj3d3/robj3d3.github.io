@@ -2,7 +2,7 @@
 name: Oxford Hack 2020
 image: https://robhallam.uk/assets/oxfordhack20.png
 dates: May 2020
-category: [Hackathon, Click to read more!]
+category: [Hackathon, Digithon, Click to read more!]
 description: COVIDcatch
 ---
 
