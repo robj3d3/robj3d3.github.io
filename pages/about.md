@@ -15,6 +15,8 @@ My passions include programming (and maintaining my projects), attending hackath
 
 I'm currently learning React.js, FastAPI and Docker! (as well as playing with Google Cloud stuff, amongst other things)
 
+If you're interested, feel free to check out my university bridging coursework blog site developed with Django in Python [here](https://robj3d3.pythonanywhere.com).
+
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
