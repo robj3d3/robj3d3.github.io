@@ -13,7 +13,7 @@ A first year Computer Science student studying at the University of Birmingham. 
 
 My passions include programming (and maintaining my projects), attending hackathons, and listening to various genres of music from indie and rap to hip hop.<br>
 
-I'm currently learning React.js, FastAPI and Docker! (as well as playing with Google Cloud stuff, amongst other things)
+I'm currently learning React.js, FastAPI and Docker! (as well as playing with Google Cloud stuff, amongst other things).
 
 If you're interested, feel free to check out my university bridging coursework blog site developed with Django in Python [here](https://robj3d3.pythonanywhere.com).
 
