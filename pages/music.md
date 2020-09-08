@@ -49,6 +49,7 @@ But particularly recently I've found myself listening to a lot more guitar-based
 - **Sleep Alone** *by Two Door Cinema Club*
 - **Conversations with my Wife** *by Jon Bellion* (in memory of my best friend and late cat Alfie (2007-2020))
 - **Stupid Deep** *by Jon Bellion*
+- **My Stress** *by NF*
 
 <hr>
 
