@@ -61,7 +61,7 @@ But particularly recently I've found myself listening to a lot more guitar-based
 <iframe src="https://open.spotify.com/embed/album/5PFzbdbZRNaoGLCHFPnmv3" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/11yHtE6IzOk6elh9cJzldJ" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/621cXqrTSSJi1WqDMSLmbL" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/album/1ujPmNlTMp41h4EG6OOBGR" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/46xdC4Qcvscfs3Ai2RIHcv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/57PgT4iuDurzlJnkYjrpce" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/6JQLDydERhZKXqwQLb9uUY" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/6ApYSpXF8GxZAgBTHDzYge" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
