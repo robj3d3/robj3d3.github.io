@@ -66,5 +66,5 @@ But particularly recently I've found myself listening to a lot more guitar-based
 <iframe src="https://open.spotify.com/embed/album/6JQLDydERhZKXqwQLb9uUY" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/6ApYSpXF8GxZAgBTHDzYge" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/3y4AaloFccKNLQcZNS9L8c" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<iframe src="https://open.spotify.com/embed/album/2cWBwpqMsDJC1ZUwz813lo" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/6uyslsVGFsHKzdGUosFwBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <iframe src="https://open.spotify.com/embed/album/79dL7FLiJFOO0EoehUHQBv" width="280" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
