@@ -17,7 +17,7 @@ The tool works by **simulating internal phishing emails** to employees and **mon
 
 The purpose of the tool is to improve the efficiency of cybersecurity training in workplaces by allowing employers to target training at higher risk employees.
 
-For more information please contact me via any of my social media, or alternatively click below to Learn More.
+For more inormation please contact me via any of my social media, or alternatively click below to Learn More.
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/robj3d3/phishing-project" text="Learn More" %}
