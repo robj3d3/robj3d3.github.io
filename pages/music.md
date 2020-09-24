@@ -52,6 +52,7 @@ But particularly recently I've found myself listening to a lot more guitar-based
 - **Stupid Deep** *by Jon Bellion*
 - **My Stress** *by NF*
 - **Stuck in the Middle** *by Tai Verdes*
+- **Borderline** *by Tame Impala*
 
 <hr>
 
