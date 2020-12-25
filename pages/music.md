@@ -53,6 +53,7 @@ But particularly recently I've found myself listening to a lot more guitar-based
 - **My Stress** *by NF*
 - **Stuck in the Middle** *by Tai Verdes*
 - **Borderline** *by Tame Impala*
+- **Neon (Live in LA)** *by John Mayer*
 
 <hr>
 
